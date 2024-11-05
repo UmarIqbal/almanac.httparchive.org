@@ -917,6 +917,17 @@
     },
     "website": "https://chrisadams.me.uk"
   },
+  "chrisbeety": {
+     "avatar_url": "32492572",
+     "github": "chrisbeety",
+     "name": "Chris Beety",
+     "teams": {
+       "2024": [
+         "analysts"
+       ]
+     },
+     "website": "https://chrisadams.me.uk"
+   },
   "svgeesus": {
     "avatar_url": "2506926",
     "github": "svgeesus",
@@ -995,6 +1006,9 @@
       "2019": [
         "authors",
         "brainstormers"
+              ],
+      "2024": [
+        "authors"
       ],
       "2020": [
         "reviewers"
@@ -3705,6 +3719,16 @@
       ]
     }
   },
+    "shaoormunir": {
+    "avatar_url": "22539212",
+    "github": "shaoormunir",
+    "name": "Shaoor Munir",
+    "teams": {
+      "2024": [
+        "authors"
+      ]
+    }
+  },
   "spanicker": {
     "avatar_url": "4945616",
     "github": "spanicker",
@@ -3892,6 +3916,9 @@
     "teams": {
       "2022": [
         "analysts",
+        "authors"
+              ],
+      "2024": [
         "authors"
       ]
     },
@@ -4245,6 +4272,17 @@
     },
     "twitter": "yoavweiss",
     "website": "https://blog.yoav.ws"
+  },
+    "yohanbeugin": {
+    "avatar_url": "32905060",
+    "github": "yohanbeugin",
+    "name": "Yohan Beugin",
+    "teams": {
+      "2024": [
+        "analysts"
+      ]
+    },
+    "website": "https://yohan.beugin.org"
   },
   "tyohan": {
     "avatar_url": "106703",
